@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "cadeira",
+        "preco": 300
+    },
+    {
+        "id": 2,
+        "nome": "geladeira",
+        "preco": 650
+    },
+    {
+        "id": 3,
+        "nome": "pc gamer",
+        "preco": 4500
+    }
+]
